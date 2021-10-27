@@ -6,6 +6,7 @@ This is the source code of paper "[BinarizedAttack: Structural Poisoning Attacks
 python==3.8
 
 pytorch==1.9.0
+
 numpy==1.20.3
 
 ## Cite
