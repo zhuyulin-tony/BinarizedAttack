@@ -1,7 +1,4 @@
 # BinarizedAttack
-============
-
-## Dominant
 
 This is the source code of paper "[BinarizedAttack: Structural Poisoning Attacks to Graph-based Anomaly Detection](https://arxiv.org/abs/2106.09989)".
 
